@@ -13,7 +13,7 @@
 # Thông Tin Thành Viên
 |                        Họ và Tên                       |   MSSV   |        Khoa       |
 |:------------------------------------------------------:|:--------:|:-----------------:|
-| [Hoàng Phan Thành Bách]()                              | 21520599 | Kỹ Thuật Máy Tính |
+| [Hoàng Phan Thành Bách](https://github.com/bachuit)    | 21520599 | Kỹ Thuật Máy Tính |
 | [Nguyễn Vũ Anh Minh](https://github.com/anhminh21)     | 21520350 | Kỹ Thuật Máy Tính |
 | [Nguyễn Thường Quân](https://github.com/quanntuit2203) | 21522498 | Kỹ Thuật Máy Tính |
 
