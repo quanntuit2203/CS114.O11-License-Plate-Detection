@@ -1,7 +1,7 @@
 [![UIT logo](https://www.uit.edu.vn/sites/vi/files/banner_uit.png)](https://www.uit.edu.vn)
 
 # Giới Thiệu
-| **Tên môn học*** |           Máy học (Machine Learning)          |
+| **Tên môn học**  |           Máy học (Machine Learning)          |
 |:----------------:|:---------------------------------------------:|
 | **Mã môn học**   | CS114                                         |
 | **Lớp tham gia** | CS114.O11                                     |
